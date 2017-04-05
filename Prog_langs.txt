@@ -1,0 +1,4 @@
+c oop-dir, high -level programming language-dir ve consol application-lar yazmaq ucundur.
+asp.net web sehifeler yazmaq ucun framework-dur.
+assembly machine language-dir ve ashagi level proglamlashdirma dili sayilir.
+Bunlari muqaise etmek cetindir, cunku funksiyalari ferqlidir.
